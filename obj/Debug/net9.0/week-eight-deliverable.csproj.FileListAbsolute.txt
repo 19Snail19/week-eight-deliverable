@@ -1,0 +1,14 @@
+C:\Users\jessi\Projects\week-eight-deliverable\bin\Debug\net9.0\week-eight-deliverable.exe
+C:\Users\jessi\Projects\week-eight-deliverable\bin\Debug\net9.0\week-eight-deliverable.deps.json
+C:\Users\jessi\Projects\week-eight-deliverable\bin\Debug\net9.0\week-eight-deliverable.runtimeconfig.json
+C:\Users\jessi\Projects\week-eight-deliverable\bin\Debug\net9.0\week-eight-deliverable.dll
+C:\Users\jessi\Projects\week-eight-deliverable\bin\Debug\net9.0\week-eight-deliverable.pdb
+C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\week-eight-deliverable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\week-eight-deliverable.AssemblyInfoInputs.cache
+C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\week-eight-deliverable.AssemblyInfo.cs
+C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\week-eight-deliverable.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\week-eight-deliverable.dll
+C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\refint\week-eight-deliverable.dll
+C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\week-eight-deliverable.pdb
+C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\week-eight-deliverable.genruntimeconfig.cache
+C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\ref\week-eight-deliverable.dll
