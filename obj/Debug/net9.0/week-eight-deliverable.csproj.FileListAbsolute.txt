@@ -12,3 +12,4 @@ C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\refint\week-eigh
 C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\week-eight-deliverable.pdb
 C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\week-eight-deliverable.genruntimeconfig.cache
 C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\ref\week-eight-deliverable.dll
+C:\Users\jessi\Projects\week-eight-deliverable\obj\Debug\net9.0\week-eight-deliverable.sourcelink.json

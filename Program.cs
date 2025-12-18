@@ -65,7 +65,17 @@ class Program
             Typewrite("\n...\n...\n...\n...");
             Typewrite("I guess it didn't-");
             Typewrite("\n");
-            string kaboom = System.IO.File.ReadAllText(@"kaboom.txt");
+            string kaboom = @"     _.-^^---....,,--       
+ _--                  --_  
+<                        >)
+|                         | 
+ \._                   _./  
+    ```--. . , ; .--'''       
+          | |   |             
+       .-=||  | |=-.   
+       `-=#$%&%$#=-'   
+          | ;  :|     
+ _____.,-#%&$@%#&#~,._____";
             Console.WriteLine(kaboom);
             Typewrite("\n\n\nPress any key to quit and be exploded.");
             Console.ReadKey(true);
